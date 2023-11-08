@@ -1,0 +1,38 @@
+rules
+
+identifiers sjould not start from numeric
+
+case sensitive 
+
+no limit in word
+
+we can add numeric after using the aplhabet
+
+we can not use special character and reserve word as idnetifiesrs
+
+
+there are 32 keywords in python
+
+
+datatype are of two types
+1. premitive type
+2. non premitive type
+
+premitive 
+
+1. int
+2. float
+3. complex
+4. bool str
+5. bytes
+6. bytearray
+
+non-premitive type
+
+1. range
+2. list
+3. tuple
+4. set
+5. dictionary
+6. none
+7. frozenert
